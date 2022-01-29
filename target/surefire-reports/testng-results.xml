@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1973" started-at="2022-01-29T16:40:47 UTC" finished-at="2022-01-29T16:40:49 UTC">
+    <groups>
+    </groups>
+    <test name="SimplilearnTest" duration-ms="1973" started-at="2022-01-29T16:40:47 UTC" finished-at="2022-01-29T16:40:49 UTC">
+      <class name="com.main.FirstClassinMaven">
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.main.FirstClassinMaven@27c20538]" name="testMethod1" duration-ms="1827" started-at="2022-01-29T16:40:47 UTC" finished-at="2022-01-29T16:40:49 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+      </class> <!-- com.main.FirstClassinMaven -->
+      <class name="com.main.SecondClass">
+        <test-method status="PASS" signature="secondclassmethod()[pri:0, instance:com.main.SecondClass@25bbe1b6]" name="secondclassmethod" duration-ms="0" started-at="2022-01-29T16:40:49 UTC" finished-at="2022-01-29T16:40:49 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondclassmethod -->
+      </class> <!-- com.main.SecondClass -->
+    </test> <!-- SimplilearnTest -->
+  </suite> <!-- Suite -->
+</testng-results>
